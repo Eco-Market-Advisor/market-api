@@ -95,7 +95,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+nbactions.xml
 
 ### PERSONAL CHANGES ###
 target
