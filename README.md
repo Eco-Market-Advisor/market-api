@@ -35,7 +35,7 @@ This project is used by the following companies:
 
 ## License
 
-[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
 
 
 ## Authors
